@@ -1,0 +1,11 @@
+traditional_whiteboard
+
+whiteboard_material
+48
+72
+no
+
+not_capable
+flips_to_other_side
+yes
+no
