@@ -1,0 +1,13 @@
+Class: bell
+
+Attributes:
+sound (string)
+volume (string)
+length_of_ring_in_seconds (integer)
+rings_everyday_of_week (boolean)
+
+Methods:
+rings_at_end_of_school (calculates current time and determines if that is time of school end; rings)
+ends_ringing (calculates if length_of_ring_in_seconds is up; ends ringing)
+starts_ringing (calculates current time and determines if that is time of school start; rings)
+weekend_schedule (calculates if rings_everyday_of_week is true, if false calculates what day it is; if weekend doesn't ring)
