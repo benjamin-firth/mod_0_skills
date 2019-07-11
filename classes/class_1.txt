@@ -1,0 +1,13 @@
+Class: Front_Display_Board
+
+Attributes:
+material (string)
+height (integer)
+width (integer)
+electronically_capable (boolean)
+
+Methods:
+erases (decides if electronically_capable; then if so erases current writing)
+flips_to_other_side (decides if area computed by height and width is full; if so flips board)
+is_usable_with_marker (check value of material; if whiteboard then answer is affirmative)
+is_usable_with_chalk (check value of material; if blackboard then answer is affirmative)
