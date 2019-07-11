@@ -1,0 +1,11 @@
+Class: centennial_elementary_school_bell
+
+bird_chirp
+medium
+15
+false
+
+yes
+yes
+yes
+yes
