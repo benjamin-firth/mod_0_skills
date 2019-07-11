@@ -26,13 +26,13 @@
 
   * 1.2 Get finances in order
 
-   * 1.2.1 Decide what financing method for school is best for you
+    * 1.2.1 Decide what financing method for school is best for you
 
       * 1.2.1.1 Apply for loan
 
         * 1.2.1.1.1 Connect loan with Turing and pay down payment
 
-   * 1.2.2 Budget outside costs of living and transportation
+    * 1.2.2 Budget outside costs of living and transportation
 
       *  1.2.2.1 See if you have enough or need outside financial assistance for these additional costs
 
