@@ -8,6 +8,6 @@ rings_everyday_of_week (boolean)
 
 Methods:
 rings_at_end_of_school (calculates current time and determines if that is time of school end; rings)
-end_ringing (calculates if length_of_ring_in_seconds is up; ends ringing)
-start_ringing (calculates current time and determines if that is time of school start; rings)
+rings_at_start_of_school (calculates current time and determines if that is time of school start; rings)
+ringing (calculates if length_of_ring_in_seconds is up; if true end ringing, if false keep ringing)
 turn_off_ring_for_weekend_schedule (calculates if rings_everyday_of_week is true, if false calculates what day it is; if weekend doesn't ring)
