@@ -7,5 +7,5 @@ no
 
 not_capable
 flips_to_other_side
-yes
-no
+true
+false
